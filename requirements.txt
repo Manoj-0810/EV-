@@ -6,7 +6,7 @@ scipy==1.15.2
 statsmodels==0.14.4
 streamlit==1.44.1
 tensorflow==2.20.0rc0
-
+matplotlib>=3.8.0
 
 
 
