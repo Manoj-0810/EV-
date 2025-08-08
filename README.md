@@ -5,3 +5,6 @@ Using the electric vehicle dataset (which includes information on EV populations
 
 OBJECTIVE :
 TO build a regression model that forecasts future EV adoption demand based on historical trends in EV growth, types of vehicles, and regional data.
+
+
+CHECKOUT - https://manojev.streamlit.app/
